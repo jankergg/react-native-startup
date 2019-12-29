@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>已办_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="12.5696553%" y1="-6.86097735%" x2="88.9335189%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#98B6D2" offset="0%"></stop>
+            <stop stop-color="#98A7B5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.1726354%" y1="0%" x2="91.3280745%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#99A9B8" offset="0%"></stop>
+            <stop stop-color="#ABC1D6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="48" height="48" rx="13"></rect>
+        <filter x="-19.4%" y="-11.0%" width="138.7%" height="142.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.29" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-164.000000, -574.000000)">
+            <g id="已办" transform="translate(164.000000, 574.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="蒙版">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                    <use stroke="url(#linearGradient-2)" stroke-width="0.58" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="编组-21备份" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+                    <path d="M23,27 C20.2385763,27 18,24.7614237 18,22 C18,19.2385763 20.2385763,17 23,17 C25.7614237,17 28,19.2385763 28,22 C28,24.7614237 25.7614237,27 23,27 Z M22.4142136,22.4142136 L21.7071068,21.7071068 C21.3165825,21.3165825 20.6834175,21.3165825 20.2928932,21.7071068 C19.9023689,22.0976311 19.9023689,22.7307961 20.2928932,23.1213203 L21.7071068,24.5355339 C21.9023689,24.7307961 22.1582912,24.8284271 22.4142136,24.8284271 C22.6701359,24.8284271 22.9260582,24.7307961 23.1213203,24.5355339 L25.9497475,21.7071068 C26.3402718,21.3165825 26.3402718,20.6834175 25.9497475,20.2928932 C25.5592232,19.9023689 24.9260582,19.9023689 24.5355339,20.2928932 L22.4142136,22.4142136 Z" id="形状结合"></path>
+                    <path d="M19.3380767,16.6213251 C17.3598822,17.6022193 16,19.6423009 16,22 C16,25.3137085 18.6862915,28 22,28 L1.29259125,28 C0.58008973,28 0.00315266157,27.4294964 0.00315266157,26.72494 L0.00315266157,26.68753 L0,26.68753 C0,26.681295 0.00315266157,26.6719424 0.00315266157,26.6657074 C0.00315266157,26.6189448 0.00945798472,26.5752998 0.0157633079,26.5285372 C0.540091086,21.6510625 3.81041655,17.5857291 8.26948194,15.8724297 C8.26298424,15.868701 8.25649024,15.8649631 8.24999996,15.8612159 C5.62009079,14.3428372 4,11.5367575 4,8.5 C4,5.4632425 5.62009079,2.65716283 8.24999996,1.13878407 C10.8799091,-0.379594691 14.1200909,-0.379594691 16.75,1.13878407 C19.3799092,2.65716283 21,5.4632425 21,8.5 C21,11.4004817 19.5220512,14.0905245 17.0978991,15.6491182 C17.879984,15.9046369 18.6293178,16.2312847 19.3380767,16.6213251 Z" id="形状结合" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

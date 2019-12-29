@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编组_16_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.8670746%" y1="9.75985129%" x2="83.395685%" y2="88.2657006%" id="linearGradient-1">
+            <stop stop-color="#FF832C" offset="0%"></stop>
+            <stop stop-color="#FF693C" offset="37.6153856%"></stop>
+            <stop stop-color="#FF5849" offset="67.2089585%"></stop>
+            <stop stop-color="#FF4754" offset="80.922653%"></stop>
+            <stop stop-color="#FF314B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.6179901%" y1="6.91284482%" x2="85.4823362%" y2="86.6711008%" id="linearGradient-2">
+            <stop stop-color="#FF740A" offset="0%"></stop>
+            <stop stop-color="#E90334" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="48" height="48" rx="13"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-277.000000, -120.000000)">
+            <g id="编组-16" transform="translate(277.000000, 120.000000)">
+                <g id="编组-4">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="蒙版" stroke="url(#linearGradient-2)" stroke-width="0.58" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                    <path d="M18,12 L18,14 C18,15.0543618 18.8158778,15.9181651 19.8507377,15.9945143 L20,16 L28,16 C29.0543618,16 29.9181651,15.1841222 29.9945143,14.1492623 L30,14 L30,12 L31,12 C33.7614237,12 36,14.2385763 36,17 L36,33 C36,35.7614237 33.7614237,38 31,38 L17,38 C14.2385763,38 12,35.7614237 12,33 L12,17 C12,14.2385763 14.2385763,12 17,12 L18,12 Z M31.0208153,22.2928932 C30.630291,21.9023689 29.997126,21.9023689 29.6066017,22.2928932 L29.6066017,22.2928932 L23.242,28.656 L19.7071068,25.1213203 C19.3165825,24.7307961 18.6834175,24.7307961 18.2928932,25.1213203 C17.9023689,25.5118446 17.9023689,26.1450096 18.2928932,26.5355339 L18.2928932,26.5355339 L22.5355339,30.7781746 C22.7157759,30.9584166 22.9477046,31.0554699 23.1836093,31.0693347 L23.1836093,31.0693347 L23.3016721,31.0693347 L23.4190722,31.0554699 C23.6134506,31.020808 23.7995458,30.9283762 23.9497475,30.7781746 L23.9497475,30.7781746 L31.0208153,23.7071068 C31.4113396,23.3165825 31.4113396,22.6834175 31.0208153,22.2928932 Z" id="形状结合" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                    <rect id="矩形" fill="#FFFFFF" mask="url(#mask-4)" x="20" y="10" width="8" height="4" rx="1"></rect>
+                </g>
+                <g id="编组-13" transform="translate(12.000000, 10.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

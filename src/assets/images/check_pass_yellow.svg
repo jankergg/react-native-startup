@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>审核通过_黄色_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="17.5" cy="17.5" r="17.5"></circle>
+        <filter x="-24.3%" y="-27.1%" width="171.4%" height="171.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.678431373   0 0 0 0 0.22745098  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0.000000, -6.000000)">
+            <g id="审核通过-黄色" transform="translate(0.000000, 6.000000)">
+                <g id="椭圆形-2">
+                    <g id="编组-4">
+                        <g id="椭圆形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <circle stroke="#FFFFFF" stroke-width="1.4" stroke-linejoin="square" fill="#FFAD3A" fill-rule="evenodd" cx="17.5" cy="17.5" r="16.8"></circle>
+                        </g>
+                    </g>
+                </g>
+                <path d="M19.9970937,9.28563849 L19.3850622,19.974517 C19.3685892,20.4675077 19.1807555,20.8785992 18.8219372,21.2069781 C18.4627429,21.5357636 18.0263099,21.7 17.5122281,21.7 C16.9981804,21.7 16.565541,21.5431152 16.2147883,21.229408 C15.8636255,20.9156697 15.6719641,20.4976333 15.6394623,19.974517 L15.0029605,9.28570106 C14.9700828,8.71810016 15.2110608,8.19532796 15.7251426,7.71707164 C16.2392586,7.23912816 16.8306476,7 17.5000271,7 C18.1690307,7 18.7607955,7.23528034 19.2749116,7.70587229 C19.7889934,8.17646424 20.0296296,8.70305298 19.9970937,9.28566978 L19.9970937,9.28563849 Z M17.4871672,23.8 C18.1706173,23.8 18.7604255,24.0035742 19.256377,24.4106926 C19.7520064,24.817841 20,25.3070173 20,25.8785806 C20,26.4497849 19.7520064,26.9463204 19.256377,27.3678581 C18.7604255,27.7890666 18.1706173,28 17.4871672,28 C16.8033233,28 16.2179538,27.7927163 15.7307723,27.3785678 C15.2435908,26.9640303 15,26.4678538 15,25.8892604 C15,25.3106969 15.2435908,24.817811 15.7307723,24.4106627 C16.2179538,24.0036041 16.8032875,23.8 17.4871672,23.8 L17.4871672,23.8 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

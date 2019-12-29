@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>普通信贷申请_2_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.8670746%" y1="9.75985129%" x2="83.395685%" y2="88.2657006%" id="linearGradient-1">
+            <stop stop-color="#6ED3A2" offset="0%"></stop>
+            <stop stop-color="#64CEB1" offset="28.5526843%"></stop>
+            <stop stop-color="#43BBAB" offset="74.1684665%"></stop>
+            <stop stop-color="#31B6A7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.6179901%" y1="6.91284482%" x2="123.132689%" y2="131.772296%" id="linearGradient-2">
+            <stop stop-color="#5ECAB2" offset="0%"></stop>
+            <stop stop-color="#449B8E" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="48" height="48" rx="13"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-164.000000, -120.000000)">
+            <g id="普通信贷申请-2" transform="translate(164.000000, 120.000000)">
+                <g id="普通信贷申请">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="蒙版" stroke="url(#linearGradient-2)" stroke-width="0.58" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                    <g id="编组-12" transform="translate(12.000000, 10.000000)" fill="#FFFFFF">
+                        <path d="M17,2 L17,4 C17,6.6887547 19.1223067,8.88181811 21.7831104,8.99538049 L22,9 L24,9 L24,23 C24,25.7614237 21.7614237,28 19,28 L5,28 C2.23857625,28 2.11453371e-15,25.7614237 0,23 L0,7 C-3.38176876e-16,4.23857625 2.23857625,2 5,2 L17,2 Z M17,21 L7,21 C6.44771525,21 6,21.4477153 6,22 C6,22.5522847 6.44771525,23 7,23 L7,23 L17,23 C17.5522847,23 18,22.5522847 18,22 C18,21.4477153 17.5522847,21 17,21 L17,21 Z M17,16 L7,16 C6.44771525,16 6,16.4477153 6,17 C6,17.5522847 6.44771525,18 7,18 L7,18 L17,18 C17.5522847,18 18,17.5522847 18,17 C18,16.4477153 17.5522847,16 17,16 L17,16 Z M17,11 L7,11 C6.44771525,11 6,11.4477153 6,12 C6,12.5522847 6.44771525,13 7,13 L7,13 L17,13 C17.5522847,13 18,12.5522847 18,12 C18,11.4477153 17.5522847,11 17,11 L17,11 Z" id="形状结合"></path>
+                        <path d="M21,0 C23.7614237,-5.07265313e-16 26,2.23857625 26,5 L26,7 L22,7 C20.3431458,7 19,5.65685425 19,4 L19,0 L21,0 Z" id="形状结合"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

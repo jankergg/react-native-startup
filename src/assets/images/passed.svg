@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 43 40" style="enable-background:new 0 0 43 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter-2);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#8EDC86;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'PingFangHK-Medium-B5pc-H';}
+	.st5{font-size:9px;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="150.0%" id="filter-2" width="142.9%" x="-21.4%" y="-12.5%">
+	<feOffset  dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"></feGaussianBlur>
+	<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"></feColorMatrix>
+</filter>
+<title>已通过_slice</title>
+<desc>Created with Sketch.</desc>
+<g id="页面1">
+	<g id="画板" transform="translate(-318.000000, -368.000000)">
+		<g id="已通过" transform="translate(318.000000, 368.000000)">
+			<g id="形状结合备份-3">
+				<g class="st0">
+					<path id="path-1_1_" class="st1" d="M24.8,0L42,16.4V40L0,0H24.8z"/>
+				</g>
+				<g>
+					<path class="st2" d="M24.8,0L42,16.4V40L0,0H24.8z"/>
+				</g>
+			</g>
+			<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 15.9894 7.7218)" class="st3 st4 st5">已通过</text>
+		</g>
+	</g>
+</g>
+</svg>

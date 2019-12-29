@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="212px" viewBox="0 0 375 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>首页背景_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="40.7220982%" x2="100%" y2="40.7220982%" id="linearGradient-1">
+            <stop stop-color="#0098E4" offset="0%"></stop>
+            <stop stop-color="#4975EF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L375,0 L375,197.32872 C312.5,207.109573 250,212 187.5,212 C125,212 62.5,207.109573 0,197.32872 L0,0 Z" id="path-2"></path>
+        <linearGradient x1="27.1144072%" y1="105.381796%" x2="42.2021588%" y2="-7.99182941%" id="linearGradient-4">
+            <stop stop-color="#0195E0" offset="0%"></stop>
+            <stop stop-color="#0A91E9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.24400112%" y1="28.3485918%" x2="88.9325823%" y2="23.5139975%" id="linearGradient-5">
+            <stop stop-color="#4188ED" offset="0%"></stop>
+            <stop stop-color="#2E5ACC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.4487897%" id="linearGradient-6">
+            <stop stop-color="#4187F6" stop-opacity="0.800668025" offset="0%"></stop>
+            <stop stop-color="#5196F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板">
+            <g id="首页背景">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M74.5362119,-39.0533445 C82.8823237,0.396386627 98.6058528,30.3289577 121.706799,50.7443688 C156.358219,81.3674855 200.723011,132.398617 214.623316,187.493447 C228.523621,242.588277 235.491749,289.518218 242.423925,297.683107 C249.356102,305.847996 156.577718,318.038221 97.0260953,318.005387 C57.3250137,317.983408 16.6848826,300.958762 -24.894298,266.931447 L-25.1781325,-39.1084346 L74.5362119,-39.0533445 Z" id="Path-6" fill="url(#linearGradient-4)" opacity="0.129999995" style="mix-blend-mode: multiply;" mask="url(#mask-3)" transform="translate(108.806520, 139.448476) rotate(-9.000000) translate(-108.806520, -139.448476) "></path>
+                <ellipse id="Oval" fill="url(#linearGradient-5)" opacity="0.149999991" style="mix-blend-mode: multiply;" mask="url(#mask-3)" transform="translate(326.586076, 181.392405) rotate(2.000000) translate(-326.586076, -181.392405) " cx="326.586076" cy="181.392405" rx="135.767084" ry="132.791204"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-6)" opacity="0.119999997" style="mix-blend-mode: multiply;" mask="url(#mask-3)" transform="translate(282.929114, -22.313924) rotate(2.000000) translate(-282.929114, 22.313924) " cx="282.929114" cy="-22.3139241" rx="122.814041" ry="120.416396"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

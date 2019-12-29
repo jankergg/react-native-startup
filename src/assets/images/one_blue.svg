@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>蓝1_slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-30.000000, -73.000000)">
+            <g id="蓝1" transform="translate(30.000000, 73.000000)">
+                <circle id="椭圆形备份" fill="#589EFF" opacity="0.800000012" cx="13.5" cy="13.5" r="13.5"></circle>
+                <path d="M14.056,8 L15.368,8 L15.368,19.424 L13.624,19.424 L13.624,10.096 C12.936,10.752 12.056,11.232 11,11.536 L11,9.808 C11.512,9.68 12.04,9.456 12.616,9.136 C13.192,8.784 13.672,8.416 14.056,8 Z" id="1" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

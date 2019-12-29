@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编组_6_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.8670746%" y1="9.75985129%" x2="83.395685%" y2="88.2657006%" id="linearGradient-1">
+            <stop stop-color="#3FD6FF" offset="0%"></stop>
+            <stop stop-color="#4482E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.6179901%" y1="6.91284482%" x2="123.132689%" y2="131.772296%" id="linearGradient-2">
+            <stop stop-color="#59BBDC" offset="0%"></stop>
+            <stop stop-color="#4C8ADB" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="48" height="48" rx="13"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-164.000000, -211.000000)">
+            <g id="编组-6" transform="translate(164.000000, 211.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="蒙版" stroke="url(#linearGradient-2)" stroke-width="0.58" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                <g id="编组-15" transform="translate(12.000000, 10.000000)" fill="#FFFFFF">
+                    <path d="M17,2 L17,4 C17,6.6887547 19.1223067,8.88181811 21.7831104,8.99538049 L22,9 L24,9 L24,23 C24,25.7614237 21.7614237,28 19,28 L5,28 C2.23857625,28 2.11453371e-15,25.7614237 0,23 L0,7 C-3.38176876e-16,4.23857625 2.23857625,2 5,2 L17,2 Z M12,10 C9.23857625,10 7,12.2385763 7,15 C7,17.7614237 9.23857625,20 12,20 C13.0191072,20 13.9670032,19.6951083 14.7574478,19.1715651 L14.7574478,19.1715651 L17.1213203,21.5355339 C17.5118446,21.9260582 18.1450096,21.9260582 18.5355339,21.5355339 C18.9260582,21.1450096 18.9260582,20.5118446 18.5355339,20.1213203 L18.5355339,20.1213203 L16.1715651,17.7574478 C16.6951083,16.9670032 17,16.0191072 17,15 C17,12.2385763 14.7614237,10 12,10 Z M12,12 C13.6568542,12 15,13.3431458 15,15 C15,16.6568542 13.6568542,18 12,18 C10.3431458,18 9,16.6568542 9,15 C9,13.3431458 10.3431458,12 12,12 Z" id="形状结合"></path>
+                    <path d="M21,0 C23.7614237,-5.07265313e-16 26,2.23857625 26,5 L26,7 L22,7 C20.3431458,7 19,5.65685425 19,4 L19,0 L21,0 Z" id="形状结合"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

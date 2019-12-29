@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编组_8_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.8670746%" y1="9.75985129%" x2="83.395685%" y2="88.2657006%" id="linearGradient-1">
+            <stop stop-color="#3FD6FF" offset="0%"></stop>
+            <stop stop-color="#4482E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.6179901%" y1="6.91284482%" x2="123.132689%" y2="131.772296%" id="linearGradient-2">
+            <stop stop-color="#59BBDC" offset="0%"></stop>
+            <stop stop-color="#4C8ADB" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="48" height="48" rx="13"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-50.000000, -649.000000)">
+            <g id="编组-8" transform="translate(50.000000, 649.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="蒙版" stroke="url(#linearGradient-2)" stroke-width="0.58" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                <g id="编组" mask="url(#mask-4)" fill="#FFFFFF">
+                    <g transform="translate(11.000000, 10.000000)" id="形状结合">
+                        <path d="M20,7 C22.7614237,7 25,9.23857625 25,12 L25,13 L17,13 C15.4023191,13 14.0963391,14.24892 14.0050927,15.8237272 L14,16 L14,19 C14,20.6568542 15.3431458,22 17,22 L17,22 L25,22 L25,23 C25,25.7614237 22.7614237,28 20,28 L5,28 C2.23857625,28 3.38176876e-16,25.7614237 0,23 L0,12 C-3.38176876e-16,9.23857625 2.23857625,7 5,7 L20,7 Z"></path>
+                        <path d="M18,16 C18,16.5522847 18.4477153,17 19,17 C19.5522847,17 20,16.5522847 20,16 L20,16 L20,15 L20,15 L27,15 L27,20 L18,20 C16.8954305,20 16,19.1045695 16,18 L16,17 C16,15.8954305 16.8954305,15 18,15 Z"></path>
+                        <path d="M19.3266913,1.26625238 C19.4552833,1.44500146 19.5638046,1.63736494 19.6502937,1.83986621 L21.001,5.001 L20.9124798,4.9996201 L9,4.999 L15.1394441,0.582907036 C16.4844211,-0.384668745 18.3591156,-0.0787246143 19.3266913,1.26625238 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

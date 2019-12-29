@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>审核不通过红色_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="17.5" cy="17.5" r="17.5"></circle>
+        <filter x="-24.3%" y="-27.1%" width="171.4%" height="171.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.337254902   0 0 0 0 0.262745098  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0.000000, -6.000000)">
+            <g id="审核不通过红色" transform="translate(0.000000, 6.000000)">
+                <g id="编组-4">
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <circle stroke="#FFFFFF" stroke-width="1.4" stroke-linejoin="square" fill="#F25643" fill-rule="evenodd" cx="17.5" cy="17.5" r="16.8"></circle>
+                    </g>
+                    <path d="M25.6343015,23.9996578 L19.2120477,17.8234187 L25.2662314,11.9994296 C25.7557267,11.5285462 25.7557267,10.822221 25.2662314,10.3531626 C24.7767361,9.88410426 24.0424932,9.88227913 23.5548952,10.3531626 L17.5007115,16.1771517 L11.4465277,10.3531626 C10.9570324,9.88227913 10.2227895,9.88227913 9.73519154,10.3531626 C9.24759354,10.8240461 9.24569627,11.5303713 9.73519154,11.9994296 L15.8140398,17.799692 L9.36712145,23.9996578 C8.87762618,24.4705413 8.87762618,25.1768665 9.36712145,25.6459248 C9.61186909,25.8813666 9.85661672,25.9981749 10.2227895,25.9981749 C10.5889624,25.9981749 10.83371,25.8813666 11.0784576,25.6459248 L17.532965,19.4368334 L24.0443905,25.64775 C24.2891381,25.8831917 24.5338858,26 24.9000586,26 C25.2662314,26 25.510979,25.8831917 25.6343015,25.64775 C26.1218995,25.1768665 26.1218995,24.4705413 25.6343015,23.9996578 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

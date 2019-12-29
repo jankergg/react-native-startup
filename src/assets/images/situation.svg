@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>位置按钮_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8EDC86" offset="0%"></stop>
+            <stop stop-color="#86DCA5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-277.000000, -269.000000)">
+            <g id="位置按钮" transform="translate(277.000000, 269.000000)">
+                <circle id="椭圆形备份" fill="url(#linearGradient-1)" cx="13.5" cy="13.5" r="13.5"></circle>
+                <path d="M19,11.7186312 C19,8.5652725 16.5425532,6 13.5,6 C10.4671986,6 8,8.55513308 8,11.7186312 C8,12.8745247 8.33156028,13.9391635 8.89716312,14.8415716 L8.88741135,14.8415716 L13.0124113,21.6856781 C13.1001773,21.878327 13.285461,22 13.5097518,22 C13.7242908,22 13.9095745,21.8681876 14.0070922,21.6856781 L18.1320922,14.8415716 L18.1223404,14.8415716 C18.6684397,13.9391635 19,12.8745247 19,11.7186312 Z M13.5,14 C12.118677,14 11,12.881323 11,11.5 C11,10.118677 12.118677,9 13.5,9 C14.881323,9 16,10.118677 16,11.5 C16,12.881323 14.881323,14 13.5,14 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="40px" viewBox="0 0 43 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>申请中_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.8176869,0 L42,16.3641077 L42,40 L-1.13686838e-13,7.10542736e-15 L24.8176869,0 Z" id="path-1"></path>
+        <filter x="-21.4%" y="-12.5%" width="142.9%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-318.000000, -184.000000)">
+            <g id="申请中" transform="translate(318.000000, 184.000000)">
+                <g id="形状结合备份-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#4D94FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text transform="translate(28.009889, 14.792893) rotate(-315.000000) translate(-28.009889, -14.792893) " font-family="PingFangSC-Semibold, PingFang SC" font-size="9" font-weight="500" fill="#FFFFFF">
+                    <tspan x="14.5098889" y="18.2928932">申请中</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

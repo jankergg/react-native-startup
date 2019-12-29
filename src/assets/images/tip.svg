@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="39px" viewBox="0 0 22 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>准左上角角标_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="1.42785228%" x2="50%" y2="100.850367%" id="linearGradient-1">
+            <stop stop-color="#86B5FC" offset="0.0950168919%"></stop>
+            <stop stop-color="#609FFE" offset="51.2395893%"></stop>
+            <stop stop-color="#4D94FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22,25 L22,28 C22,34.0751322 17.0751322,39 11,39 C4.92486775,39 7.43989126e-16,34.0751322 0,28 L0,21 L0,0 L22,0 L22,25 Z" id="path-2"></path>
+        <filter x="-40.9%" y="-12.8%" width="181.8%" height="151.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-171.000000, -179.000000)">
+            <g id="准左上角角标" transform="translate(171.000000, 179.000000)">
+                <g id="形状结合">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <text id="准" font-family="PingFangSC-Semibold, PingFang SC" font-size="13" font-weight="500" letter-spacing="-0.078" fill="#FFFFFF">
+                    <tspan x="5" y="30">准</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

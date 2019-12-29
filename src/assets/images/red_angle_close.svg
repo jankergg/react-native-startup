@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>弹出页右上角红色关闭_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,0 C24.209139,-4.05812251e-16 26,1.790861 26,4 L26,26 C11.6405965,26 0,14.3594035 0,0 L0,0 L22,0 Z" id="path-1"></path>
+        <filter x="-28.8%" y="-28.8%" width="157.7%" height="157.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-319.000000, -135.000000)">
+            <g id="弹出页右上角红色关闭" transform="translate(319.000000, 135.000000)">
+                <g id="形状结合">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F25643" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="弹窗关闭" transform="translate(9.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M10.7081323,9.20182011 L6.93033594,5.34167068 L10.4916205,1.70167753 C10.7795589,1.40737535 10.7795589,0.965922093 10.4916205,0.672760626 C10.2036821,0.379599159 9.77177451,0.378458453 9.48495216,0.672760626 L5.9236676,4.31275378 L2.36238303,0.672760626 C2.07444464,0.378458453 1.64253705,0.378458453 1.35571469,0.672760626 C1.06889234,0.967062799 1.0677763,1.40851606 1.35571469,1.70167753 L4.93150778,5.3268415 L1.13920288,9.20182011 C0.851264481,9.49612229 0.851264481,9.93757555 1.13920288,10.230737 C1.28317207,10.3778881 1.42714127,10.4508933 1.64253705,10.4508933 C1.85793282,10.4508933 2.00190202,10.3778881 2.14587122,10.230737 L5.94264028,6.35005487 L9.77289055,10.2318777 C9.91685975,10.3790288 10.0608289,10.452034 10.2762247,10.452034 C10.4916205,10.452034 10.6355897,10.3790288 10.7081323,10.2318777 C10.9949547,9.93757555 10.9949547,9.49612229 10.7081323,9.20182011 Z" id="路径"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="26px" viewBox="0 0 27 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>关闭_slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-333.000000, -17.000000)" fill="#555555" stroke="#555555" stroke-width="0.72">
+            <g id="关闭" transform="translate(333.000000, 17.000000)">
+                <g id="Group-50" transform="translate(13.679156, 12.980224) rotate(45.000000) translate(-13.679156, -12.980224) translate(4.679156, 3.980224)">
+                    <path d="M0.35862069,8.60689655 L16.8551724,8.60689655 C17.0532332,8.60689655 17.2137931,8.7674565 17.2137931,8.96551724 C17.2137931,9.16357798 17.0532332,9.32413793 16.8551724,9.32413793 L0.35862069,9.32413793 C0.160559952,9.32413793 2.42554449e-17,9.16357798 0,8.96551724 C-2.42554449e-17,8.7674565 0.160559952,8.60689655 0.35862069,8.60689655 Z" id="Rectangle-4"></path>
+                    <rect id="Rectangle-4" transform="translate(8.606897, 8.965517) rotate(90.000000) translate(-8.606897, -8.965517) " x="0" y="8.60689655" width="17.2137931" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

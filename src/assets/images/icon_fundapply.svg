@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编组_5_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="21.8670746%" y1="9.75985129%" x2="83.395685%" y2="88.2657006%" id="linearGradient-1">
+            <stop stop-color="#3FD6FF" offset="0%"></stop>
+            <stop stop-color="#4482E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.6179901%" y1="6.91284482%" x2="123.132689%" y2="131.772296%" id="linearGradient-2">
+            <stop stop-color="#59BBDC" offset="0%"></stop>
+            <stop stop-color="#4C8ADB" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="48" height="48" rx="13"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-50.000000, -211.000000)">
+            <g id="编组-5" transform="translate(50.000000, 211.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="蒙版" stroke="url(#linearGradient-2)" stroke-width="0.58" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                <g id="编组-14" transform="translate(7.000000, 8.000000)" fill="#FFFFFF">
+                    <path d="M29,13 L29,22 C29,24.7614237 26.7614237,27 24,27 L10,27 C7.23857625,27 5,24.7614237 5,22 L5,13 L29,13 Z M22.2126768,22.2079656 L15.9626768,22.2079656 C15.410392,22.2079656 14.9626768,22.6556809 14.9626768,23.2079656 C14.9626768,23.7602504 15.410392,24.2079656 15.9626768,24.2079656 L15.9626768,24.2079656 L22.2126768,24.2079656 C22.7649615,24.2079656 23.2126768,23.7602504 23.2126768,23.2079656 C23.2126768,22.6556809 22.7649615,22.2079656 22.2126768,22.2079656 L22.2126768,22.2079656 Z M12.4626768,22.2079656 L12.2126768,22.2079656 C11.660392,22.2079656 11.2126768,22.6556809 11.2126768,23.2079656 C11.2126768,23.7602504 11.660392,24.2079656 12.2126768,24.2079656 L12.2126768,24.2079656 L12.4626768,24.2079656 C13.0149615,24.2079656 13.4626768,23.7602504 13.4626768,23.2079656 C13.4626768,22.6556809 13.0149615,22.2079656 12.4626768,22.2079656 L12.4626768,22.2079656 Z M24,5 C26.7614237,5 29,7.23857625 29,10 L29,11 L5,11 L5,10 C5,7.23857625 7.23857625,5 10,5 L24,5 Z" id="形状结合" transform="translate(17.000000, 16.000000) rotate(-32.000000) translate(-17.000000, -16.000000) "></path>
+                    <rect id="矩形" x="5" y="28" width="21" height="2" rx="1"></rect>
+                    <rect id="矩形备份-17" x="28" y="28" width="3" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

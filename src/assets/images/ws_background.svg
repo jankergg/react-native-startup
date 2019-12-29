@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="360px" viewBox="0 0 375 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>添加背景蓝色_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="40.7220982%" x2="100%" y2="40.7220982%" id="linearGradient-1">
+            <stop stop-color="#0098E4" offset="0%"></stop>
+            <stop stop-color="#4975EF" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0 375 0 375 360 -3.38271078e-14 360"></polygon>
+        <linearGradient x1="33.4529479%" y1="105.381796%" x2="44.361899%" y2="-7.99182941%" id="linearGradient-4">
+            <stop stop-color="#0195E0" offset="0%"></stop>
+            <stop stop-color="#0A91E9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.0063674%" y1="27.3672921%" x2="79.1326309%" y2="22.3135812%" id="linearGradient-5">
+            <stop stop-color="#4188ED" offset="0%"></stop>
+            <stop stop-color="#2E5ACC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.4487897%" id="linearGradient-6">
+            <stop stop-color="#4187F6" stop-opacity="0.800668025" offset="0%"></stop>
+            <stop stop-color="#5196F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(0.000000, -64.000000)">
+            <g id="添加背景蓝色" transform="translate(0.000000, 64.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M78.6514195,-16.1427678 C86.0190701,30.7035736 101.166884,65.9801527 124.094862,89.6869696 C158.486829,125.247195 202.181773,184.887733 214.755413,250.248453 C227.329052,315.609172 233.080639,371.422769 239.902692,380.969892 C246.724745,390.517014 151.951352,407.716069 91.3435876,409.377483 C50.9384114,410.485092 10.0630819,391.326189 -31.2824009,351.900772 L-22.8313486,-13.3608652 L78.6514195,-16.1427678 Z" id="Path-6" fill="url(#linearGradient-4)" opacity="0.129999995" style="mix-blend-mode: multiply;" mask="url(#mask-3)" transform="translate(104.484591, 196.640057) rotate(-9.000000) translate(-104.484591, -196.640057) "></path>
+                <ellipse id="Oval" fill="url(#linearGradient-5)" opacity="0.149999991" style="mix-blend-mode: multiply;" mask="url(#mask-3)" transform="translate(328.932453, 245.569496) rotate(2.000000) translate(-328.932453, -245.569496) " cx="328.932453" cy="245.569496" rx="137.594967" ry="159.063048"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-6)" opacity="0.119999997" style="mix-blend-mode: multiply;" mask="url(#mask-3)" transform="translate(284.698018, 1.517177) rotate(2.000000) translate(-284.698018, -1.517177) " cx="284.698018" cy="1.51717716" rx="124.467541" ry="144.23996"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

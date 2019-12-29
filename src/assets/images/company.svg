@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>group_6 copy 2_slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-30.000000, -264.000000)">
+            <g id="Group-6-Copy-2" transform="translate(30.000000, 264.000000)">
+                <path d="M0,18.0001432 C0,27.9358672 8.06406871,36 18,36 C27.9359313,36 36,27.9358672 36,18.0001432 C36,8.06384654 27.9359313,0 18,0 C8.06406871,0 0,8.06384654 0,18.0001432" id="Fill-1" fill-opacity="0.06" fill="#0098E4"></path>
+                <g id="编组" transform="translate(8.000000, 9.000000)">
+                    <polygon id="Fill-4" fill="#A9D2FF" points="3 19 20 19 20 0 3 0"></polygon>
+                    <path d="M11.8591642,16 L18,16 L18,9 L11.8591642,9 L11.8591642,16 Z M5,16 L10.3432217,16 L10.3432217,14.8587483 L5,14.8587483 L5,16 Z M5,13.032806 L10.3432217,13.032806 L10.3432217,11.9674965 L5,11.9674965 L5,13.032806 Z M5,10.1415543 L10.3432217,10.1415543 L10.3432217,9 L5,9 L5,10.1415543 Z" id="Fill-6" fill="#FEFEFE"></path>
+                    <polygon id="Fill-7" fill="#72AEFD" points="2 4 0 4 0 19 2 18.9273873"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

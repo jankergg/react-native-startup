@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>添加虚框白_slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="52" height="52" rx="13"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="52" height="52" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-163.000000, -85.000000)">
+            <g id="添加虚框白" transform="translate(163.000000, 85.000000)">
+                <use id="矩形" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="3,3" xlink:href="#path-1"></use>
+                <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="24.8571396 23.8571396 15 23.8571396 15 27.1428604 24.8571396 27.1428604 24.8571396 37 28.1428604 37 28.1428604 27.1428604 38 27.1428604 38 23.8571396 28.1428604 23.8571396 28.1428604 14 24.8571396 14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
