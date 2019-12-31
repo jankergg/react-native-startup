@@ -1,7 +1,30 @@
-// obtained from react native tutorials
-
-import React from 'react';
 import {PixelRatio, Dimensions} from 'react-native';
+import {useEffect, useRef} from 'react';
+
+export function usePadding(num: number, pad: number = 2): string {
+  return ('0' + num).slice(-pad);
+}
+
+export function useInterval(callback: Function, delay: number) {
+  let initRef: Function = () => {};
+  const savedCallback = useRef(initRef);
+
+  // Remember the latest callback.
+  useEffect(() => {
+    savedCallback.current = callback;
+  }, [callback]);
+
+  // Set up the interval.
+  useEffect(() => {
+    function tick() {
+      savedCallback.current();
+    }
+    if (delay !== null) {
+      let id = setInterval(tick, delay);
+      return () => clearInterval(id);
+    }
+  }, [delay]);
+}
 
 const Util = {
   ratio: PixelRatio.get(),
@@ -30,22 +53,5 @@ const Util = {
   },
   key: 'BDKHFSDKJFHSDKFHWEFH-REACT-NATIVE',
 };
-
-// import {StyleSheet, Platform} from 'react-native';
-
-// export function create(styles: Object): {[name: string]: number} {
-//   const platformStyles = {};
-//   Object.keys(styles).forEach((name) => {
-//     let {ios, android, ...style} = {...styles[name]};
-//     if (ios && Platform.OS === 'ios') {
-//       style = {...style, ...ios};
-//     }
-//     if (android && Platform.OS === 'android') {
-//       style = {...style, ...android};
-//     }
-//     platformStyles[name] = style;
-//   });
-//   return StyleSheet.create(platformStyles);
-// }
 
 export default Util;
